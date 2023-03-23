@@ -4,8 +4,5 @@ Placement-Predictor is a machine learning model that predicts the placement outc
 # Contributing
 Contributions to Placement-Predictor are welcome! If you have any suggestions for improving the model or the code, please submit a pull request or open an issue.
 
-# License
-Placement-Predictor is licensed under the MIT License. See LICENSE for more information.
-
 # Acknowledgements
 This project was inspired by the problem of predicting placement outcomes for students, and was made possible by the availability of the placement dataset. Thanks to the creators of the dataset for making it publicly available.
